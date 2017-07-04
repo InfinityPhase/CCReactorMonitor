@@ -1,35 +1,35 @@
 {
   Type="Menu",
     children={
-      {
-        Name       = "SettingsTitle",
-        Type       = "label",
-        Text       = "Settings",
-        Align      = "center",
-        TextColour = "red",
-        autoWidth  = "true"
-      },
-      {
-        Name      = "SettingsTitleSeperator",
-        Type      = "seperator",
-        Colour    = "lightGrey",
-        Character = "="
-      },
-      {
-        Name   = "AutoActive",
-        Type   = "button",
-        Text   = "Automatic Reactor Control",
-        Toggle = "true",
-        Align  = "center"
-      },
-      {
-        Name   = "AutoWasteDump",
-        Type   = "button",
-        Text   = "Automatically Dump Waste",
-        Toggle = "true",
-        Align  = "center"
-      }
+    {
+      Name       = "SettingsTitle",
+      Type       = "label",
+      Text       = "Settings",
+      Align      = "center",
+      TextColour = "red",
+      autoWidth  = "true"
+    },
+    {
+      Name      = "SettingsTitleSeperator",
+      Type      = "seperator",
+      Colour    = "lightGrey",
+      Character = "="
+    },
+    {
+      Name   = "AutoActive",
+      Type   = "button",
+      Text   = "Automatic Reactor Control",
+      Toggle = "true",
+      Align  = "center"
+    },
+    {
+      Name   = "AutoWasteDump",
+      Type   = "button",
+      Text   = "Automatically Dump Waste",
+      Toggle = "true",
+      Align  = "center"
     }
   }
 }
+
         
