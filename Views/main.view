@@ -1,18 +1,39 @@
 {
   Children={
     {
-      X=2,
-      Y=2,
-      Name="HelloLabel",
-      Type="Label",
-      Text="Hello! I'm a Label!"
+      Name = "FuelLevel"
+      Type = "Label"
+      Text = "0"
     },
     {
-      X=2,
-      Y=4,
-      Name="HelloButton",
-      Type="Button",
-      Text="Hello! I'm a Button!"
+      Name = "FuelLevel"
+      Type = "Label"
+      Text = "0"
+    },
+    {
+      Name = "WasteLevel"
+      Type = "Label"
+      Text = "0"
+    },
+    {
+      Name = "StoredPower"
+      Type = "Label"
+      Text = "0"
+    },
+    {
+      Name = 'FuelTemp'
+      Type = "Label"
+      Text = "0"
+    },
+    {
+      Name = "CaseTemp"
+      Type = "Label"
+      Text = "0"
+    },
+    {
+      Name = 'FuelReact'
+      Type = "Label"
+      Text = "0"
     }
   },
   BackgroundColour="black"
