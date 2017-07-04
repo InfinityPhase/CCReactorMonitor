@@ -3,43 +3,43 @@
     {
       Name = "FuelLevel",
       Type = "Label",
-      Text = "0"
+      Text = "0",
       BackgroundColour = 'lightGrey'
     },
     {
       Name = "FuelLevel",
       Type = "Label",
-      Text = "0"
+      Text = "0",
       BackgroundColour = 'lightGrey'
     },
     {
       Name = "WasteLevel",
       Type = "Label",
-      Text = "0"
+      Text = "0",
       BackgroundColour = 'lightGrey'
     },
     {
       Name = "StoredPower",
       Type = "Label",
-      Text = "0"
+      Text = "0",
       BackgroundColour = 'lightGrey'
     },
     {
       Name = 'FuelTemp',
       Type = "Label",
-      Text = "0"
+      Text = "0",
       BackgroundColour = 'lightGrey'
     },
     {
       Name = "CaseTemp",
       Type = "Label",
-      Text = "0"
+      Text = "0",
       BackgroundColour = 'lightGrey'
     },
     {
       Name = 'FuelReact',
       Type = "Label",
-      Text = "0"
+      Text = "0",
       BackgroundColour = 'lightGrey'
     }
   },
