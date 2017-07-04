@@ -1,38 +1,38 @@
 {
   Children={
     {
-      Name = "FuelLevel"
-      Type = "Label"
+      Name = "FuelLevel",
+      Type = "Label",
       Text = "0"
     },
     {
-      Name = "FuelLevel"
-      Type = "Label"
+      Name = "FuelLevel",
+      Type = "Label",
       Text = "0"
     },
     {
-      Name = "WasteLevel"
-      Type = "Label"
+      Name = "WasteLevel",
+      Type = "Label",
       Text = "0"
     },
     {
-      Name = "StoredPower"
-      Type = "Label"
+      Name = "StoredPower",
+      Type = "Label",
       Text = "0"
     },
     {
-      Name = 'FuelTemp'
-      Type = "Label"
+      Name = 'FuelTemp',
+      Type = "Label",
       Text = "0"
     },
     {
-      Name = "CaseTemp"
-      Type = "Label"
+      Name = "CaseTemp",
+      Type = "Label",
       Text = "0"
     },
     {
-      Name = 'FuelReact'
-      Type = "Label"
+      Name = 'FuelReact',
+      Type = "Label",
       Text = "0"
     }
   },
